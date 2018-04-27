@@ -2,3 +2,27 @@ html{
   text-align: center;
   font-family: Helvetica;
 }
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+.header, .second-background{
+  background-image: url("./flatiron.png");
+  color: white;
+}
+.second-background{
+  font-size: 23px;
+}
+a{
+  color; white;
+}
+.footer{
+  background-color: dimgrey;
+  text-align: left;
+}
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
